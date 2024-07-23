@@ -1,10 +1,11 @@
 {
-  "users": [
+  "shopUsers": [
     {
       "id": "ayuu",
       "name": "ayush jain",
       "email": "as@gmail.com",
       "password": "1111"
+<<<<<<< HEAD
     },
     {
       "id": "rishi",
@@ -28,6 +29,8 @@
       "time": "06:00",
       "Mark": "Complete",
       "id": 27
+=======
+>>>>>>> 2f7d5368d7e221cb9da680b45c1139ac985bb26f
     }
   ]
 }
